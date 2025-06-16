@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Myoffice_ACPD_Project.props" />
+</Project>
